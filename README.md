@@ -48,6 +48,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import dcusumkbn from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dcusumkbn@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/blas-ext-base-dcusumkbn/tags). For example,
+
+```javascript
 import dcusumkbn from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dcusumkbn@v0.2.2-esm/index.mjs';
 ```
 
@@ -171,7 +176,7 @@ dcusumkbn.ndarray( 4, 0.0, x, 2, 1, y, -1, y.length-1 );
 var discreteUniform = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform' ).factory;
 import filledarrayBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-filled-by@esm/index.mjs';
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@esm/index.mjs';
-import dcusumkbn from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dcusumkbn@v0.2.2-esm/index.mjs';
+import dcusumkbn from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dcusumkbn@esm/index.mjs';
 
 var x = filledarrayBy( 10, 'float64', discreteUniform( 0, 100 ) );
 var y = new Float64Array( x.length );
