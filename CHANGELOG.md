@@ -2,6 +2,51 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-09-27)
+
+<section class="features">
+
+### Features
+
+-   [`62a5c3a`](https://github.com/stdlib-js/stdlib/commit/62a5c3ad48fc4b0d2757ecea35ae7893ae452ea6) - add C `ndarray` API and refactor `blas/ext/base/dcusumkbn` [(#2951)](https://github.com/stdlib-js/stdlib/pull/2951)
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`62a5c3a`](https://github.com/stdlib-js/stdlib/commit/62a5c3ad48fc4b0d2757ecea35ae7893ae452ea6) - **feat:** add C `ndarray` API and refactor `blas/ext/base/dcusumkbn` [(#2951)](https://github.com/stdlib-js/stdlib/pull/2951) _(by Muhammad Haris, Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Muhammad Haris
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-28)
