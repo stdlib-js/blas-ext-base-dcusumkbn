@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`5774557`](https://github.com/stdlib-js/stdlib/commit/5774557e951cb1ae566fc0587cbf03d47b067620) - add C `ndarray` API and refactor `blas/ext/base/dcusumors`
 -   [`a13603b`](https://github.com/stdlib-js/stdlib/commit/a13603b556defa762f7fe1d25fbfa3b621404f69) - add C `ndarray` API and refactor `blas/ext/base/dcusum` [(#2954)](https://github.com/stdlib-js/stdlib/pull/2954)
 -   [`62a5c3a`](https://github.com/stdlib-js/stdlib/commit/62a5c3ad48fc4b0d2757ecea35ae7893ae452ea6) - add C `ndarray` API and refactor `blas/ext/base/dcusumkbn` [(#2951)](https://github.com/stdlib-js/stdlib/pull/2951)
 
@@ -23,6 +24,7 @@
 
 <details>
 
+-   [`5774557`](https://github.com/stdlib-js/stdlib/commit/5774557e951cb1ae566fc0587cbf03d47b067620) - **feat:** add C `ndarray` API and refactor `blas/ext/base/dcusumors` _(by Muhammad Haris, Athan Reines)_
 -   [`a13603b`](https://github.com/stdlib-js/stdlib/commit/a13603b556defa762f7fe1d25fbfa3b621404f69) - **feat:** add C `ndarray` API and refactor `blas/ext/base/dcusum` [(#2954)](https://github.com/stdlib-js/stdlib/pull/2954) _(by Muhammad Haris)_
 -   [`62a5c3a`](https://github.com/stdlib-js/stdlib/commit/62a5c3ad48fc4b0d2757ecea35ae7893ae452ea6) - **feat:** add C `ndarray` API and refactor `blas/ext/base/dcusumkbn` [(#2951)](https://github.com/stdlib-js/stdlib/pull/2951) _(by Muhammad Haris, Athan Reines)_
 
