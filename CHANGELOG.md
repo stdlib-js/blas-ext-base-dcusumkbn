@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-19)
+## Unreleased (2025-06-26)
 
 <section class="features">
 
@@ -35,6 +35,7 @@
 
 <details>
 
+-   [`c221279`](https://github.com/stdlib-js/stdlib/commit/c2212790b0118b7787b5e292244b4364c08ea05a) - **docs:** minor clean-up _(by Philipp Burckhardt)_
 -   [`499ac6a`](https://github.com/stdlib-js/stdlib/commit/499ac6abb988bb6e28cd350976d5fee2fd77cf90) - **fix:** propagate sign to the accumulated sum _(by Athan Reines)_
 -   [`8355a12`](https://github.com/stdlib-js/stdlib/commit/8355a12db3136d06875016a248eb6f8410672bd2) - **fix:** preserve the sign of zero _(by Athan Reines)_
 -   [`189249b`](https://github.com/stdlib-js/stdlib/commit/189249b59813ed32ab40c4bafb5a827859fb7032) - **docs:** update `blas/ext/base/dcusumkbn` to follow current project conventions [(#5167)](https://github.com/stdlib-js/stdlib/pull/5167) _(by Muhammad Haris)_
