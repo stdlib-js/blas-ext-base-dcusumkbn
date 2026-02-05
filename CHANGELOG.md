@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-02-05)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`928d410`](https://github.com/stdlib-js/stdlib/commit/928d41013a8327b8727232d4b44b2879a9687e05) - **bench:** refactor to use dynamic memory allocation in `blas/ext/base/dcusumkbn` [(#10085)](https://github.com/stdlib-js/stdlib/pull/10085) _(by Loay Ahmed)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Loay Ahmed
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.0">
 
 ## 0.3.0 (2026-01-29)
